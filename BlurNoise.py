@@ -4,11 +4,13 @@
 Created on Thu Oct 17 17:57:16 2019
 
 @author: dmlopez
+
+Adapted from: 
 """
 
 # -*- coding: utf-8 -*-
 """
-Created on Sat Feb 23 20:00:57 2019
+Created on Sat Feb 23 20:00:57 2019 
 @author: Brandon
 """
 import numpy as np
